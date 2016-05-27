@@ -4,7 +4,7 @@
 	width: 100%;
 	font-family: raleway;
 	text-align: center;
-
+	padding: 10px;
 }
 .paragraph{
 	background: lightgray;
@@ -15,11 +15,9 @@
 	margin: 10px;
 	height: 350px;
 	width: 400px;
-	padding-top: 10px;
-	padding-left: 10px;
-	padding-bottom: 10px;
+	padding: 10px;
 }
-.randomNumber{
+#randomNumber{
 	background: lightblue;
 	color: black;
 	font-family: raleway;
@@ -28,9 +26,7 @@
 	height: 80px;
 	width: 250px;
 	text-align: left;
-	padding-top: 10px;
-	padding-left: 10px;
-	padding-bottom: 10px;
+	padding: 10px;
 }
 .wins-losses{
 	background: lightgreen;
@@ -42,29 +38,39 @@
 	width: 250px;
 	text-align: left;
 	padding-left: 10px;
-}
-#wrapper{
-  margin: 10px auto 0;
+	padding-right: 10px;
 }
 .button1{
 	background: white;
   	text-align: left;
   	width: 100px;
+  	text-align: center;
+  	padding: 10px;
+  	margin: 5px auto 0;
 }
 .button2{
 	background: white;
   	text-align: left;
   	width: 100px;
+  	padding: 10px;
+  	text-align: center;
+  	margin: 5px auto 0;
 }
 .button3{
 	background: white;
   	text-align: left;
   	width: 100px;
+  	padding: 10px;
+  	text-align: center;
+  	margin: 5px auto 0;
 }
 .button4{
 	background: white;
   	text-align: left;
   	width: 100px;
+  	padding: 10px;
+  	text-align: center;
+  	margin: 5px auto 0;
 }
 .ytsi{
 	background: teal;
@@ -75,6 +81,7 @@
 	width: 400px;
 	text-align: left;
 	padding-left: 10px;
+	padding-right: 10px;
 }
 .score{
 	background: teal;
@@ -85,9 +92,7 @@
 	height: 80px;
 	width: 400px;
 	text-align: left;
-	padding-top: 10px;
-	padding-left: 10px;
-	padding-bottom: 10px;
+	padding: 10px;
 
 }
 
