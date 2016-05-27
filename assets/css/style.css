@@ -1,0 +1,98 @@
+.heading{
+	background: purple;
+	color: white;
+	width: 100%;
+	font-family: raleway;
+	text-align: center;
+
+}
+.paragraph{
+	background: lightgray;
+	color: purple;
+	font-family: raleway;
+	font-size: 17px; 
+	text-align: left;
+	margin: 10px;
+	height: 350px;
+	width: 400px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.randomNumber{
+	background: lightblue;
+	color: black;
+	font-family: raleway;
+	font-size: 60px; 
+	margin: 10px;
+	height: 80px;
+	width: 250px;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.wins-losses{
+	background: lightgreen;
+	color: black;
+	font-family: raleway;
+	font-size: 17px; 
+	margin: 10px;
+	height: 60px;
+	width: 250px;
+	text-align: left;
+	padding-left: 10px;
+}
+#wrapper{
+  margin: 10px auto 0;
+}
+.button1{
+	background: white;
+  	text-align: left;
+  	width: 100px;
+}
+.button2{
+	background: white;
+  	text-align: left;
+  	width: 100px;
+}
+.button3{
+	background: white;
+  	text-align: left;
+  	width: 100px;
+}
+.button4{
+	background: white;
+  	text-align: left;
+  	width: 100px;
+}
+.ytsi{
+	background: teal;
+	color: white;
+	font-family: raleway;
+	margin: 10px;
+	height: 30px;
+	width: 400px;
+	text-align: left;
+	padding-left: 10px;
+}
+.score{
+	background: teal;
+	color: white;
+	font-family: raleway;
+	font-size: 60px; 
+	margin: 10px;
+	height: 80px;
+	width: 400px;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+
+}
+
+
+
+
+
+
