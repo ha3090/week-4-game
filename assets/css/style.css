@@ -28,7 +28,7 @@
 	text-align: left;
 	padding: 10px;
 }
-.wins-losses{
+#wins-losses{
 	background: lightgreen;
 	color: black;
 	font-family: raleway;
